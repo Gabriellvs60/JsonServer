@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "nome": "Teonildo Farias",
+      "email": "teo@gmail.com",
+      "nomeVaga": "Front-End",
+      "dataNascimento": "2019-10-03",
+      "id": 1
+    },
+    {
+      "nome": "Mirosnei Valdo",
+      "email": "miros@gmail.com",
+      "nomeVaga": "Back-End",
+      "dataNascimento": "2019-10-04",
+      "id": 2
+    },
+    {
+      "nome": "Jubileide Fragão",
+      "email": "jubi@gmail.com",
+      "nomeVaga": "Front-End",
+      "dataNascimento": "2019-10-04",
+      "id": 3
+    },
+    {
+      "nome": "Jabivaldo Cruz",
+      "email": "jabi@gmail.com",
+      "nomeVaga": "Tester",
+      "dataNascimento": "2019-10-02",
+      "id": 4
+    }
+  ]
+}
